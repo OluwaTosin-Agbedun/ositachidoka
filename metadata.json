@@ -1,0 +1,6 @@
+{
+  "name": "Japhet Prosper OS",
+  "description": "An interactive OS-style personal story and blog application, cloned exactly as requested.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
